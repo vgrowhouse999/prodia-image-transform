@@ -1,0 +1,16 @@
+{
+  "name": "sep11app",
+  "version": "1.0.0",
+  "description": "A simple Node.js app using PostgreSQL",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.18.1",
+    "pg": "^8.7.1"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
